@@ -1,4 +1,5 @@
 import streamlit as st 
+import matplotlib matplotlib.use('Agg')
 st.markdown("""
     <style>
     /* General styles */
