@@ -198,7 +198,7 @@ st.markdown("""
 import pandas as pd
 import numpy as np
 import matplotlib
-matplotlib.use('TkAgg')
+matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 st.markdown("""
     <style>
